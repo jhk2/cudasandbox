@@ -1,0 +1,36 @@
+# Compilation directories
+build/
+Debug/
+Release/
+
+# Visual Studio Extras
+ipch/
+*.suo
+*.user
+*.pdb
+*.sdf
+
+# Compiled Executables
+*.exe
+
+# Compiled Libraries
+*.lib
+
+# Text output files
+out.txt
+
+# external library stuff
+external/
+include/
+
+# assets
+assets/
+
+# image files
+*.png
+*.jpeg
+*.jpg
+
+# model files
+*.obj
+*.mtl
